@@ -37,7 +37,7 @@ pip install numpy pandas matplotlib seaborn scikit-learn tensorflow nltk
 
 ## Data
 
-The dataset used in this project contains a collection of questions from Quora, labeled as insincere or sincere. Ensure that the dataset is placed in the `data/` directory or adjust the paths in the notebook accordingly. If a dataset link is provided, download it from there.
+The dataset used in this project contains a collection of questions from Quora, labeled as insincere or sincere. Ensure that the dataset is placed in the `data/` directory or adjust the paths in the notebook accordingly. [Dataset link](https://www.kaggle.com/datasets/arnavsharma45/quora-insincere-questions-dataset), download it from there.
 
 ## Notebook Structure
 
